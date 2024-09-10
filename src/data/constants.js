@@ -8,7 +8,7 @@ export const Bio = {
     "I'm a MERN developer based in Ghaziabad, Uttar Pradesh, India.  I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results.",
   github: "https://github.com/ishitagit2003",
   resume:
-    "https://drive.google.com/file/d/1z7EqRqUocLrh_oFgRPKDQwIgM3edvMrL/view?usp=sharing",
+    "https://drive.google.com/file/d/1wi7nKHsHvohvwZ6X1_ZmzX4qiUw7eHl-/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ishita22/",
   leetcode: "https://leetcode.com/u/ishita_22/",
 };
@@ -208,7 +208,7 @@ export const experiences = [
     role: "Placement Coordinator",
     company: "AKGEC",
     date: "Sept 2022 - Present",
-    desc: ["Coordinated and executed over 60 campus recruitment drives and pool campus drives", "Collaborated with 500+ students.", ],
+    desc: ["Coordinated and executed over 60 campus recruitment drives and pool campus drives", "Collaborated with 500+ students, 20+ faculty members, and numerous industry professionals.", ],
     skills: [
       "Leadership",
       "TeamWork",
@@ -219,20 +219,19 @@ export const experiences = [
   {
     id: 1,
     img: "https://media.licdn.com/dms/image/v2/D4E0BAQGbKk9NsLs6DQ/company-logo_200_200/company-logo_200_200/0/1683697765562?e=1732752000&v=beta&t=Fpfd-OXLa8hzQaegBwlog9oH8jw8mIEEmg9wTsQIl_o",
-    role: "SDE Intern",
+    role: "Backend Developer Intern",
     company: "Fertisense LLP",
     date: "April 2024 - Present",
-    desc:[ "Created REST APIs to retrieve and display data from databases, improving data access speed by 30%.", "Implemented authentication and authorization system with Express.js",],
+    desc:[ "Worked on a Clinic Management System for an IVF center to dynamically input the availability schedule of doctors."," Implemented the OTP logic for registering the users and enabled a 25% faster authentication and authorization.", " Employed middleware techniques in Express.js for error handling, logging, and session management, ensuring smooth API functionality and reducing downtime by 35%.",],
     skills: [
       "NodeJs",
-      "JavaScript",
       "MongoDB",
       "ExpressJS",
     ],
   },
   {
     id: 2,
-    img: "https://scontent.flko9-2.fna.fbcdn.net/v/t39.30808-1/427963795_857191356428798_4489793743824441515_n.jpg?stp=dst-jpg_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=kph8Vbu84A8Q7kNvgElPw8D&_nc_ht=scontent.flko9-2.fna&oh=00_AYANeRwsbQVTR2kpMXysEEI1JphOBCsMb2B_mPdFCopmkQ&oe=66D416D2",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJSCtVln1rVu6gJAZqCH_Ai1_6HnEklMrkvy7VXiptLHKeJsG7rm5hle7d3607SAyHwc&usqp=CAU",
     role: "Frontend Web Developer",
     company: "CRSBOX",
     date: "June 2024 - Aug 2024",
@@ -262,7 +261,7 @@ export const experiences = [
     role: "Full Stack Developer",
     company: "Adnecto Technologies",
     date: "Feb 2024 - March 2024",
-    desc: ["Worked on Blogging Website", "Utilized Node.js, Express.js, and MongoDB for back end development, enhancing data retrieval efficiency by 30%.",],
+    desc: ["Worked on Blogging Website", "Leveraged Google API for authentication and YouTube API for multimedia content integration, boosting user login speed by 35% and increasing multimedia content accessibility by 30%.",],
     skills: [
       "NodeJs",
       "ReactJS",
@@ -315,8 +314,8 @@ export const projects = [
     date: "Apr 2024 - Present",
     description:
       "This is a real estate application  to manage property listings, user authentication and interactive maps.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+    image: 
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonVvfU7H3tHy1kX-t9wxgibLD1iM3uknFB52D2OebYXLJPpPrkRjQOyK5ohwlWjUppUI&usqp=CAU",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js",],
     category: "web app",
     github: "https://github.com/ishitagit2003/EstateEase",
@@ -339,11 +338,11 @@ export const projects = [
   {
     id: 1,
     title: "Burgers Co.",
-    date: "Oct 2022 - Present",
+    date: "Oct 2023 - Jan 2024",
     description:
       "This is an E Commerce application built with MVC frameworks to develop robust and scalable back end.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    image: 
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ddhv6EIws3sBEKknqFyJnSQjVzn2U789Bv-NAC3EVGj_YZgSq3KX4VjY0p4nfHVbjmc&usqp=CAU",
     tags: [
       "MongoDb",
       "Node Js",
@@ -360,7 +359,7 @@ export const projects = [
     description:
       "Blogify is a simple and lightweight blogging application that allows users to create, edit, and delete blog posts.",
     image:
-      "",
+      "https://dropinblog.com/images/fb.png?v=20220419",
     tags: ["MongoDb","Node Js", "Express Js", "NodeMailer",],
     category: "web app",
     github: "https://github.com/ishitagit2003/Blogify-app",

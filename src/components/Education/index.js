@@ -101,6 +101,9 @@ const index = () => {
                     </Timeline>
 
                 </TimelineSection>
+                {/* <a href="mailto:ishitagupta2003@gmail.com" className="contact"
+          Contact Me>
+        </a> */}
             </Wrapper>
         </Container>
     )
